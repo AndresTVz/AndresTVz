@@ -1,4 +1,4 @@
-## ![https://github.com/AndresTVz](https://forum.multitheftauto.com/uploads/monthly_2021_07/e68e4e9c-d014-484b-b0ed-7e41550dfc9d-profile_image-70x70.png.3e9fe908172c5125f887ba43371fcd60.png) Hola, mi nombre es Andres Martinez 👋
+## Hola, mi nombre es Andres Martinez 👋
 
 <!--
 **AndresTVz/AndresTVz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
